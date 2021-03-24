@@ -12,6 +12,9 @@ Data Visuals:
 ![histogram](https://github.com/yungalejo/first_repo/blob/master/histogram.png?raw=true)
 
 ![case_hr](https://github.com/yungalejo/first_repo/blob/master/case:hr%20scatter.png?raw=true)
+
 ![avg-scatter](https://github.com/yungalejo/first_repo/blob/master/avg%20scatter.png?raw=true)
+
 ![day-avg-scatter](https://github.com/yungalejo/first_repo/blob/master/day%20scatter.png?raw=true) 
+
 ![qqplot](https://github.com/yungalejo/first_repo/blob/master/qqplot.png?raw=true) 
